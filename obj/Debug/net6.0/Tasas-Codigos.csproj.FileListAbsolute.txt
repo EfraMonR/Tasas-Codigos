@@ -1,0 +1,15 @@
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\bin\Debug\net6.0\Tasas-Codigos.exe
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\bin\Debug\net6.0\Tasas-Codigos.deps.json
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\bin\Debug\net6.0\Tasas-Codigos.runtimeconfig.json
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\bin\Debug\net6.0\Tasas-Codigos.dll
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\bin\Debug\net6.0\Tasas-Codigos.pdb
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\obj\Debug\net6.0\Tasas-Codigos.csproj.AssemblyReference.cache
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\obj\Debug\net6.0\Tasas-Codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\obj\Debug\net6.0\Tasas-Codigos.AssemblyInfoInputs.cache
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\obj\Debug\net6.0\Tasas-Codigos.AssemblyInfo.cs
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\obj\Debug\net6.0\Tasas-Codigos.csproj.CoreCompileInputs.cache
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\obj\Debug\net6.0\Tasas-Codigos.dll
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\obj\Debug\net6.0\refint\Tasas-Codigos.dll
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\obj\Debug\net6.0\Tasas-Codigos.pdb
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\obj\Debug\net6.0\Tasas-Codigos.genruntimeconfig.cache
+C:\Users\Efrain\Documents\Finaktiva\Tasas-Codigos\obj\Debug\net6.0\ref\Tasas-Codigos.dll
